@@ -224,32 +224,34 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "boobs",
+    "botnumber",
+    "calc",
+    "echo",
+    "getplug",
+    "google",
+    "gps",
+    "info",
+    "qrcode",
+    "tagall",
+    "tex",
+    "time",
+    "version",
+    "webshot",
+    "welcome"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {212990316},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[WALL-E BOT V1 - Open Source
+An advance funy bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/Arashalone/WALL-E
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+Created by @dev_boy
+Managed by @CopierTeam 
 
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -324,108 +326,25 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-Commands list :
+WALL-E Tols list:
 
-!kick [username|id]
-You can also do it by reply
+boobs
+botnumber
+broadcast
+calc
+echo
+google
+gps
+info
+invite
+qrcode
+stats
+tagall
+tex
+time
+version
+webshot
 
-!ban [ username|id]
-You can also do it by reply
-
-!unban [id]
-You can also do it by reply
-
-!who
-Members list
-
-!modlist
-Moderators list
-
-!promote [username]
-Promote someone
-
-!demote [username]
-Demote someone
-
-!kickme
-Will kick user
-
-!about
-Group description
-
-!setphoto
-Set and locks group photo
-
-!setname [name]
-Set group name
-
-!rules
-Group rules
-
-!id
-Return group id or user id
-
-!help
-Get commands list
-
-!lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
-
-!unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
-
-!set rules [text]
-Set [text] as rules
-
-!set about [text]
-Set [text] as about
-
-!settings
-Returns group settings
-
-!newlink
-Create/revoke your group link
-
-!link
-Returns group link
-
-!owner
-Returns group owner id
-
-!setowner [id]
-Will set id as owner
-
-!setflood [value]
-Set [value] as flood sensitivity
-
-!stats
-Simple message statistics
-
-!save [value] [text]
-Save [text] as [value]
-
-!get [value]
-Returns text of [value]
-
-!clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
-
-!res [username]
-Returns user id
-
-!log
-Will return group logs
-
-!banlist
-Will return group ban list
-
-» U can use both "/" and "!" 
-
-» Only mods, owner and admin can add bots in group
-
-» Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-» Only owner can use res,setowner,promote,demote and log commands
 
 ]]
   }
