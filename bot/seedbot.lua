@@ -241,7 +241,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {217305644},{116567555},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[WALL-E BOT V1 - Open Source
