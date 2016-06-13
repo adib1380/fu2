@@ -234,7 +234,7 @@ return {
 
 end
 
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright; @adibnikjoo
+--Persian Translate; @adibnikjoo
+--ch : @jokeomok
 --کپی بدون ذکر منبع حرام است
