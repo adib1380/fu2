@@ -39,7 +39,7 @@ return {
   },
   run = run
 }
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @adibnikjoo
+--Persian Translate; @adibnikjoo
+--ch : @jokeomok
 --کپی بدون ذکر منبع حرام است
