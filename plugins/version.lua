@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'WALLE-BOT v1'.. VERSION .. [[ 
+  return '@jokeomok -BOT v1'.. VERSION .. [[ 
  
-  Developer : @dev_boy
+  Developer : @adibnikjoo
   
-  Channel : @CopierTeam
+  Channel : @jokeomok
   
-  Open git : https://github.com/Arashalone/wall-e.git
+  Open git : https://github.com/adib1380/fu2.git
   
-  WALL-E VERSION 1
+  @jokeomok VERSION 1
   
   All rights reserved.
   __________________]]
